@@ -1,0 +1,26 @@
+What to learn
+
+
+
+TAGS
+<html>
+<h1 ...h6>
+<title>
+<body>
+<div> <span>  div takes whole space but span takes the next space
+<p>
+<image>
+<button>
+<b>  <i>
+<centre>
+
+
+Attributes
+
+<image src=" ">
+<a href="google.com">
+<button onclick=>
+<input id>
+
+
+
