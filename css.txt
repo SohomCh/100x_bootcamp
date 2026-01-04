@@ -1,0 +1,15 @@
+COMMON Styling Atrributes
+
+font size
+color
+background
+border-radius
+padding/margin   inside the div (padding) outtside (margin)
+box-shadow
+
+
+Positioning of elements
+
+divs always take upmspace available horizontally spans only take up as much space as they need
+
+flex box
