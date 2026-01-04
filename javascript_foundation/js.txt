@@ -1,0 +1,18 @@
+
+Js must needed
+
+
+Why languages?
+Interpreated vs compiled?  (it wil go line by line)
+
+Why js>> Other languages (browsers mostly run html css and js )
+
+Strict vs dynamic languages(loosely typed js as it allows to change variables)
+
+Single threaded nature of js 
+
+Complex primitives in Js(arrays,objects)
+functions in javascript
+Practise problem solving
+Callback functions,Event loop,callback queue,Asynchronous programing
+Callback hell and promises
