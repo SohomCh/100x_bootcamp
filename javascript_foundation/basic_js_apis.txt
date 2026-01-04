@@ -1,0 +1,3 @@
+basic js apis
+
+str.length
