@@ -30,6 +30,11 @@ checkAge(14)
             .catch(err=>console.log("not allowed"))
 
 
+checkAge(18)    
+            .then(msg=>{console.log("allowed")})
+            .catch(err=>{console.log("not allowed")})
+
+
 
 
 
