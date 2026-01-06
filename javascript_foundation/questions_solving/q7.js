@@ -9,3 +9,24 @@ async function fetchUser() {
     
     }
     
+
+    //Let's use try catch
+
+
+    async function fethUser1() {
+
+        try { 
+
+            await new Promise((resolve,reject)=>{
+
+                setTimeout(()=>{
+                    Math.random>0.5? resolve:reject("Error")
+                },1000)
+            })
+            
+        } catch (error) {
+            console.log(err);
+            
+        }
+        
+    }
